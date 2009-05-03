@@ -1,0 +1,12 @@
+## Interface: 30100
+## Title: oUF_|cfe87b23fDeith|r
+## Author: Soeters
+## Notes: A main layout for oUF
+## X-eMail: soeters@free.fr
+## OptionalDeps: oUF_PowerSpark, oUF_Banzai,oUF_BarFader,oUF_Smooth,oUF_Experience,oUF_Reputation, ouf_DruidHots, oUF_Swing, oUF_DebuffHighlight
+## RequiredDeps: oUF
+
+Deith_Tags.lua
+Deith_Normal.lua
+Deith_small.lua
+
